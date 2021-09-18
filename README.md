@@ -1,5 +1,5 @@
  <h1 align="center">Ola 👋 Meu nome é Felipe Assis</h1>
-<h3 align="center">Muito bem vindo ao meu repositório.</h3>
+<h3 align="center">Seja muito bem vindo ao meu repositório.</h3>
   
  <div align="center">
   <a href="https://github.com/lipeA">
