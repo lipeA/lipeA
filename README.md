@@ -1,7 +1,7 @@
  <h1 align="center">Ola 👋 Meu nome é Felipe Assis</h1>
 <h3 align="center">Seja muito bem vindo ao meu repositório.</h3>
   
- <div align="left">
+ <div align="center">
   <a href="https://github.com/lipeA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipeA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipeA&layout=compact&langs_count=7&theme=tokyonight"/>
