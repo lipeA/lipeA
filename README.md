@@ -26,7 +26,7 @@
   
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lipea&label=Profile%20views&color=0e75b6&style=flat" alt="lipea" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lipea&label=Profile%20views&color=0e75b6&style=flat" alt="lipeA" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipea" alt="lipea" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lipeA" alt="lipea" /></a> </p>
 
